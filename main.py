@@ -16,3 +16,5 @@ for i in twselist:
 print("上櫃股票數量:",len(tpexliet))
 for i in tpexliet:
     print(i)
+
+print("test")
